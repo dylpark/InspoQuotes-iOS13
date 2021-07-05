@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		547CE752262A9AAD008C5304 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 547CE751262A9AAD008C5304 /* StoreKit.framework */; };
 		AD18A83E21285CAF00F6BF05 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD18A83D21285CAF00F6BF05 /* AppDelegate.swift */; };
 		AD18A84321285CAF00F6BF05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD18A84121285CAF00F6BF05 /* Main.storyboard */; };
 		AD18A84521285CB000F6BF05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD18A84421285CB000F6BF05 /* Assets.xcassets */; };
@@ -33,7 +32,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				547CE752262A9AAD008C5304 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
